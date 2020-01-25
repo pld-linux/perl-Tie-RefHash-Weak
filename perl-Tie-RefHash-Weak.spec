@@ -4,7 +4,6 @@
 
 %define		pdir	Tie
 %define		pnam	RefHash-Weak
-%include	/usr/lib/rpm/macros.perl
 Summary:	Tie::RefHash::Weak - A Tie::RefHash subclass with weakened references in the keys
 Name:		perl-Tie-RefHash-Weak
 Version:	0.09
